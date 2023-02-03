@@ -2,7 +2,6 @@
 
 - 🌱 Estudando Banco de dados.
 - 👯 Estou a procura de uma oportunidade como Desenvolvedor Jr. Tanto para Front-end, como Back-end ou Full-stack.
-- 📫 Contate-me no e-mail: rikurida@gmail.com
 - 😄 Pronomes: ele/dele.
 
 <div>
