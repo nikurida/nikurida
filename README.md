@@ -5,9 +5,11 @@
 - 📫 Contate-me no e-mail: rikurida@gmail.com
 - 😄 Pronomes: ele/dele.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikurida&hide=stars&count_private=true&show_icons=true&theme=dark)](https://github.com/nikurida/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikurida&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+   <a href="https://github.com/nikurida">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikurida&hide=stars&count_private=true&show_icons=true&theme=dark"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikurida&layout=compact&theme=dark"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ricardo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
