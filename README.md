@@ -7,8 +7,8 @@
 
 <div>
    <a href="https://github.com/nikurida">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikurida&hide=stars&count_private=true&show_icons=true&theme=dark"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikurida&layout=compact&theme=dark"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikurida&hide=stars&count_private=true&show_icons=true&theme=dark">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikurida&layout=compact&theme=dark">
 </div>
 
 <div style="display: inline_block"><br>
@@ -27,8 +27,7 @@
 
 <div> 
   <a href = "mailto:rikurida@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nikurida/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="https://www.linkedin.com/in/nikurida/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
 
