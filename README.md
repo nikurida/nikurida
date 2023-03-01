@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Ricardo Araujo Almeida 👋
 
-- 🌱 Estudando Banco de dados.
+- 🌱 Estudando Java.
 - 👯 Estou a procura de uma oportunidade como Desenvolvedor Jr. Tanto para Front-end, como Back-end ou Full-stack.
 
 <div>
